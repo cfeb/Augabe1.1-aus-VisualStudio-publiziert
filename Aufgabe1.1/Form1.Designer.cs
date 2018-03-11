@@ -43,7 +43,7 @@
             // 
             // btnTschuess
             // 
-            this.btnTschuess.Location = new System.Drawing.Point(248, 179);
+            this.btnTschuess.Location = new System.Drawing.Point(138, 132);
             this.btnTschuess.Name = "btnTschuess";
             this.btnTschuess.Size = new System.Drawing.Size(102, 28);
             this.btnTschuess.TabIndex = 1;
@@ -55,7 +55,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(389, 233);
+            this.ClientSize = new System.Drawing.Size(389, 215);
             this.Controls.Add(this.btnTschuess);
             this.Controls.Add(this.lblGutenTag);
             this.Name = "Form1";
