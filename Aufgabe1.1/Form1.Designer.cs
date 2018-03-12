@@ -37,9 +37,9 @@
             this.lblGutenTag.AutoSize = true;
             this.lblGutenTag.Location = new System.Drawing.Point(33, 44);
             this.lblGutenTag.Name = "lblGutenTag";
-            this.lblGutenTag.Size = new System.Drawing.Size(176, 13);
+            this.lblGutenTag.Size = new System.Drawing.Size(213, 13);
             this.lblGutenTag.TabIndex = 0;
-            this.lblGutenTag.Text = "Guten Tag! mein erstes C#-Projekt. ";
+            this.lblGutenTag.Text = "Guten Tag! Dies ist mein erstes C#-Projekt. ";
             // 
             // btnTschuess
             // 
